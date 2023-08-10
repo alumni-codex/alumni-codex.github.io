@@ -29,4 +29,3 @@ Agile Software Planning: What to do if Classic 2-Week Sprint Planning isn't Work
 
 - Check out this list of [Companies that Pair Program][pairs].
 - And the pivot-maintained [Soft Landings for Pivots][soft]
-

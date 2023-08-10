@@ -1,6 +1,7 @@
 # Tech Videos
 
-- Tech video lunches were a tradition at several Pivotal offices (San Francisco and Palo Alto. Others?) Here is a list of videos we watched.
+Tech video lunches were a tradition at several Pivotal offices (San Francisco and Palo Alto. Others?) Here is a list of videos we watched.
+
 - Christin Gorman - How to make your code sustainable - https://vimeo.com/138774243
 - Sandi Metz: SOLID Object-Oriented Design http://vimeo.com/12350535
 - Michael Bernstein - Know Your Types - http://michaelrbernste.in/2014/06/23/know-your-types-goruco-2014.html

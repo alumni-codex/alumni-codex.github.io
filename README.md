@@ -10,6 +10,7 @@ A place for the links to the things we wish we'd taken with us.
     - [Tech Videos](tech_videos.md)
     - [Core Practice Discussions](cp_discussions.md)
   - [Agility Resources](agility_resources.md)
+  - [Job Hunting](job_hunting.md)
 
 ## Contributing
 

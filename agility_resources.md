@@ -3,8 +3,7 @@
 [anchor]: https://tanzu.vmware.com/developer/learningpaths/anchor-playbook/
 [atlassian]: https://www.atlassian.com/team-playbook/plays
 [2weeks]: https://medium.com/@AdamPiel/agile-software-planning-what-to-do-if-classic-2-week-sprint-planning-isnt-working-for-your-team-c482af31a1f8
-[pairs]: https://github.com/FionaVoss/we-pair
-[soft]: https://docs.google.com/spreadsheets/d/1SYQTJSsJuA79Y32zpi7qEsN0hgvwnfrFEHbqNbHdI6M/edit#gid=0
+
 
 # Agility Resources
 
@@ -25,7 +24,3 @@ Atlassian has published something similar called the [Atlassian Playbooks][atlas
 When making the arguments for weekly iterations, take a look at [
 Agile Software Planning: What to do if Classic 2-Week Sprint Planning isn't Working][2weeks]
 
-## Job Hunting?
-
-- Check out this list of [Companies that Pair Program][pairs].
-- And the pivot-maintained [Soft Landings for Pivots][soft]

@@ -17,3 +17,18 @@ A place for the links to the things we wish we'd taken with us.
 - Pull Requests from pivots always accepted
 - Be Kind
 - Reach out to Davis - @infews - if you want to help with admin of this site
+
+## Usage
+
+This uses [mkdocs](https://www.mkdocs.org/getting-started/) to present the
+markdown docs as a website.
+
+```bash
+brew bundle
+pip3 install -r requirements.txt
+mkdocs server
+# make changes to docs
+# make sure markdown formatted correctly
+deno fmt .
+# make git commit and PR
+```

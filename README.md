@@ -1,34 +1,22 @@
-# The Pivotal Alumni Codex.
+[fun]: https://pivotal.fun/codex
+[direct]: https://alumni-codex.github.io/
+[mkd]: https://www.mkdocs.org/
+[slk]: https://pivotal.fun/
 
-A place for the links to the things we wish we'd taken with us.
+# The Pivotal Alumni Codex
 
-## Sitemap
+A place for the links to the things we wish we'd taken with us. Hosted at GitHub at https://alumni-codex.github.io/ and as a redirect from https://pivotal.fun/codex. 
 
-- [Home](home.md)
-  - [Pivotal Website Archives](pivotal_website_archives.md)
-  - [Engineering](engineering.md)
-    - [Tech Videos](tech_videos.md)
-    - [Core Practice Discussions](cp_discussions.md)
-  - [Agility Resources](agility_resources.md)
-  - [Job Hunting](job_hunting.md)
+Given that the [Pivotal Alumni Slack][slk] is free, and free Slacks have only 90-day retention, we use this site to bookmark web stuff that we find helpful _after_ Pivotal.
+
+- The `main` branch of this repo the source code for this site
+- When changes are made to the `main` brach, GitHub Actions builds and deploys HTML
+- The HTML and CSS are generated with [MkDocs][mkd]
+- This site is hosted via GitHub Pages
 
 ## Contributing
 
-- Pull Requests from pivots always accepted
+- All changes should come via Pull Request.
+- Please see CONTRIBUTING.md for details on how to add and update files.
 - Be Kind
 - Reach out to Davis - @infews - if you want to help with admin of this site
-
-## Usage
-
-This uses [mkdocs](https://www.mkdocs.org/getting-started/) to present the
-markdown docs as a website.
-
-```bash
-brew bundle
-pip3 install -r requirements.txt
-mkdocs server
-# make changes to docs
-# make sure markdown formatted correctly
-deno fmt .
-# make git commit and PR
-```

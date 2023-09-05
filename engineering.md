@@ -1,2 +1,0 @@
-- [Tech Videos](tech_videos.md)
-- [Core Practice Discussions](cp_discussions.md)

@@ -8,6 +8,8 @@ Please add the firm name, link to website, contact point, and any other notes yo
 
 ## Firms
 
+- [33 Teams](https://www.33teams.com/)
+    - [Drew McManus](https://www.33teams.com/contact) 
 - [Initial Capacity](https://www.initialcapacity.io/)
     - [Mike Barinek](https://www.linkedin.com/in/barinek/)
 - [Mechanical Orchard](https://www.mechanical-orchard.com/)

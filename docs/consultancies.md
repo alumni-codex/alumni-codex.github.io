@@ -9,6 +9,6 @@ Please add the firm name, link to website, contact point, and any other notes yo
 ## Firms
 
 - [Initial Capacity](https://www.initialcapacity.io/)
-  - [Mike Barinek](https://www.linkedin.com/in/barinek/)
+    - [Mike Barinek](https://www.linkedin.com/in/barinek/)
 - [Mechanical Orchard](https://www.mechanical-orchard.com/)
-  - [Dan Podsedly](https://www.linkedin.com/in/dan-podsedly-9945996/)
+    - [Dan Podsedly](https://www.linkedin.com/in/dan-podsedly-9945996/)

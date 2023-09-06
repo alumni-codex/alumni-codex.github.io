@@ -43,13 +43,15 @@ Tech video lunches were a tradition at several Pivotal offices (San Francisco an
 - [Rich Hickey - Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 - [J. B. Rainsberger - Integrated Tests Are a Scam](http://vimeo.com/80533536)
 - [Anders Hejlsberg - Evolving JavaScript with TypeScript](https://www.youtube.com/watch?v=Ut694dsIa8w)
-- [Rich Hickey - The Language of the System](https://www.youtube.com/watch?v=ROor6_NGIWU (2-part))
+- [Rich Hickey - The Language of the System](https://www.youtube.com/watch?v=ROor6_NGIWU) 
+  -  Needs to be 2-part
 - [Linear Book Scanner](https://www.youtube.com/watch?v=4JuoOaL11bw)
 - [Mike Desjardins - Rails Sojourn: One Man's Journey](http://confreaks.com/videos/2731-wickedgoodruby-rails-sojourn-one-man-s-journey)
 - [Theo Schlossnagle - Career Development](http://www.youtube.com/watch?v=y0mHo7SMCQk)
 - [Martijn Verburg - The Diabolical Developer](http://www.youtube.com/watch?v=yuqp5lNPG8w)
 - [Bryan Lunduke - Linux Sucks](https://www.youtube.com/watch?v=5pOxlazS3zs)
-- [Steve Yegge - GROK](http://www.youtube.com/watch?v=KTJs-0EInW8 [Needs to be 2-part, this is a 1hour 20min talk])
+- [Steve Yegge - GROK](http://www.youtube.com/watch?v=KTJs-0EInW8) 
+  - Needs to be 2-part, this is a 1hour 20min talk
 - [Sarah Clatterbuck - Stealth Accessibility](https://www.youtube.com/watch?v=vNCG0Yh3lYo)
 - [Satya Kanduri, Abhimanyu Lad - Search Quality at LinkedIn](https://www.youtube.com/watch?v=6G-xo628CHU)
 - [Adam Wolff - Rebuilding Facebook Chat](https://www.youtube.com/watch?v=unEuPvA2wnM)
@@ -69,7 +71,8 @@ Tech video lunches were a tradition at several Pivotal offices (San Francisco an
 - Pete Hunt - Be Predictable, Not Correct
 - [Koichi Sasada - Toward Efficient Ruby 2.1](http://rubykaigi.org/2013/talk/S73)
 - Des Traynor - Communication and Content in Web Software
-- [Stuart Halloway - Simplicity Ain't Easy](https://www.youtube.com/watch?v=cidchWg74Y4 (a talk mentioned in Serguei's lightning talk))
+- [Stuart Halloway - Simplicity Ain't Easy](https://www.youtube.com/watch?v=cidchWg74Y4)
+  - a talk mentioned in Serguei's lightning talk
 - [Oliver Franzke - Broken Age's Approach to Scalability (private link)](https://www.kickstarter.com/projects/doublefine/double-fine-adventure/posts/624437)
 - [Brendan Eich - JavaScript Taking Both the High and Low Roads](https://www.youtube.com/watch?v=aZqhRICne_M)
 - [Will Farrington: "Boxen: How to manage an army of laptops" - Some impressive stuff github is doing for machine management.](http://confreaks.com/videos/2355-mwrc2013-boxen-how-to-manage-an-army-of-laptops-and-live-to-talk-about-it)
@@ -83,7 +86,7 @@ Tech video lunches were a tradition at several Pivotal offices (San Francisco an
 - [Steven Blank - The Best Video on Customer Development](http://blog.movingworlds.org/the-best-video-on-customer-development/)
 - [Joshua Bloch - How to Design a Good API and Why it Matters](http://www.youtube.com/watch?v=heh4OeB9A-c)
 - [Paul Gross - Uptime == Money: High Availability at Braintree](http://vimeo.com/61255649)
-- [Sam Saffron & Jeff Atwood - Measuring Ruby [performance testing]](http://www.youtube.com/watch?v=LWyEWUD-ztQ)
+- [Sam Saffron & Jeff Atwood - Measuring Ruby (performance testing)](http://www.youtube.com/watch?v=LWyEWUD-ztQ)
 - [Jared Spool - Anatomy of a Design Decision](http://vimeo.com/20881152)
 - [Alex Wright - The Web That Wasn't](http://www.youtube.com/watch?v=72nfrhXroo8)
 - [Yehuda Katz - A Tale of Two MVCs](http://www.youtube.com/watch?v=U9x-EaeJDuE)
@@ -118,9 +121,7 @@ Tech video lunches were a tradition at several Pivotal offices (San Francisco an
 - [Sandi Metz - Designing Tests](http://vimeo.com/48106365)
 - [Jim Weirich - Writing Solid Ruby Code](http://www.confreaks.com/videos/656-rubyconf2011-writing-solid-ruby-code)
 - [Ryan Singer - Designing with Horses](http://37signals.com/svn/posts/2294-designing-with-horses-how-to-apply-christopher-alexander-in-everyday-work)
-- Rob Mee - Velocity
 - Aaron Patterson - Rails 4 and the future of web
-- Edward Hieatt - Pair Programming (Union server)
 - [Matt Wynne - Hexagonal Rails](http://confreaks.com/videos/977-goruco2012-hexagonal-rails)
 - [Sandi Metz - Go ahead make a mess](http://confreaks.com/videos/1115-gogaruco2012-go-ahead-make-a-mess)
 - [Eric Evans - Strategic Design](http://www.infoq.com/presentations/design-strategic-eric-evans)
@@ -140,7 +141,7 @@ Tech video lunches were a tradition at several Pivotal offices (San Francisco an
 - Gary Bernhardt - Boundaries
 - JB Rainsberger - Integrated tests are a scam
 - Sandi Metz - Magick Tricks of Testing
-- Sarah Mei - Is your code too solid ?
+- [Sarah Mei - Is your code too solid?](https://www.youtube.com/watch?v=WtpQD1cR3mA)
 - [Reginald Braithwaite - Ruby Rewrite Ruby](http://www.infoq.com/presentations/braithwaite-rewrite-ruby)
 - [Gary Bernhardt - A Whole New World](https://www.destroyallsoftware.com/talks/a-whole-new-world)
 - [Sumana Harihareswara - Hospitality, Jerks and What I Learned](https://en.m.wikisource.org/wiki/Hospitality,_Jerks,_and_What_I_Learned)

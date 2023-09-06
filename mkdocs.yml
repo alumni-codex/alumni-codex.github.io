@@ -3,11 +3,12 @@ theme:
   name: material
 nav:
   - Home: index.md
-  - Pivotal Website Archive: archives.md
-  - Engineering:
+  - Engineering Topics:
     - Tech Videos: engineering/tech-videos.md
     - Core Practice Discussions: engineering/core-practice.md
   - Agility Resources:
     - Practices: agility-resources/practices.md
     - Project Management: agility-resources/project-management.md
     - Job Hunting: agility-resources/job_hunting.md
+  - Labs-like Consultancies: consultancies.md
+  - Pivotal Website Archive: archives.md

@@ -21,7 +21,7 @@ Primary sources. A record of how Pivotal/Labs presented itself over the years.
 - [pivotal.io, 2020][2020]
 
 [2007]: https://web.archive.org/web/20070216104648/http://www.pivotallabs.com/
-[2010]: http://pivotallabs.com/
+[2010]: https://web.archive.org/web/20101105102729/http://pivotallabs.com/
 [2012]: https://web.archive.org/web/20120111171411/http://pivotallabs.com/
 [2013a]: https://web.archive.org/web/20130113074603/http://pivotallabs.com/
 [2013b]: https://web.archive.org/web/20130606100607/http://www.gopivotal.com:80/

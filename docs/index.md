@@ -6,9 +6,10 @@ This is a collection of interesting links and docs to help us after Pivotal.
 It's a wiki as a workaround for searching and/or paying for Slack as a full
 archive.
 
-If you want to add anything or make any changes, you will need a Google Account.
-Once you have one, [email DWF](mailto:dwfrank+codex@gmail.com) , or ask in the
-\#general channel, and ask for edit access. (hint: you will always get access)
+If you want to add anything or make any changes, you will need a [GitHub](https://github.com) Account.
+Once you have one, you can fork, edit, and submit a pull request. See the [Contributing Guide](https://github.com/alumni-codex/alumni-codex.github.io/blob/main/CONTRIBUTING.md) in the repository for more details.
+
+If this is daunting, reach out to Davis (@DWF on the Slack) and he'll help you out. 
 
 ## Are you in the Pivotal Alumni Slack?
 

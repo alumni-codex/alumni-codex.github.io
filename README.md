@@ -2,6 +2,7 @@
 [direct]: https://alumni-codex.github.io/
 [mkd]: https://www.mkdocs.org/
 [slk]: https://pivotal.fun/
+[contrib]: ./CONTRIBUTING.md
 
 # The Pivotal Alumni Codex
 
@@ -17,6 +18,6 @@ Given that the [Pivotal Alumni Slack][slk] is free, and free Slacks have only 90
 ## Contributing
 
 - All changes should come via Pull Request.
-- Please see CONTRIBUTING.md for details on how to add and update files.
+- Please see [CONTRIBUTING.md][contrib] for details on how to add and update files.
 - Be Kind
 - Reach out to Davis - @infews - if you want to help with admin of this site

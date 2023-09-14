@@ -13,3 +13,5 @@ nav:
     - Job Hunting: agility-resources/job_hunting.md
   - Labs-like Consultancies: consultancies.md
   - Pivotal Website Archive: archives.md
+  # Please keep this as the bottom-most link
+  - Contributing: contributing/index.md

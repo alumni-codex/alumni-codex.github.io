@@ -6,6 +6,8 @@
 - [The Anchor Playbook](https://tanzu.vmware.com/developer/learningpaths/anchor-playbook/)
 - [The Pivotal Glossary](https://tanzu.vmware.com/content/blog/the-pivotal-glossary), by Megan Holzer
     - A set of common Pivotal language
+- [Pivotal-style facilitaton notes](facilitation-notes.md)
+  - Documenting the basics of how to facilitate a meeting: ground rules, standard meeting agendas, etc.
 - [Atlassian Team Playbooks](https://www.atlassian.com/team-playbook/plays)
     - Another collection of workshops
     - Some overlap with what we used a Pivotal. Many good things here, complete with templates for Atlassian Products

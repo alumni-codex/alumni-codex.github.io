@@ -18,3 +18,5 @@ Please add the firm name, link to website, contact point, and any other notes yo
     - [Tammer Saleh](https://www.linkedin.com/in/tammersaleh/)
 - [Work Radical](https://www.linkedin.com/company/work-radical?trk=profile-position)
     - [Matt K. Parker](https://mattkparker.com)
+- [StartOps](https://startops.us)
+    - [Jim Park](https://www.linkedin.com/in/jim80net/)

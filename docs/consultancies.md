@@ -32,6 +32,7 @@ A template for you to use:
 - [Work Radical](https://www.linkedin.com/company/work-radical?trk=profile-position)
     - [Matt K. Parker](https://mattkparker.com)
 - [StartOps](https://startops.us)
+    - _StartOps focuses on DevOps and Site Reliability Engineering as its two significant practices, delivering streamlined commits to stable and performant production environments._
     - [Jim Park](https://www.linkedin.com/in/jim80net/)
 - [Artium](https://thisisartium.com)
     - _We build incredible products, recruit high-performing teams, and help you achieve the culture of craft you need to build great software long after we’re gone._

@@ -30,6 +30,7 @@ A template for you to use:
     - _Your partner in delivering success on Kubernetes_ (from the home page) 
     - [Tammer Saleh](https://www.linkedin.com/in/tammersaleh/)
 - [Work Radical](https://www.linkedin.com/company/work-radical?trk=profile-position)
+    - Independent consulting: leadership coaching, organizational architecture, fractional product leadership, Lean/UCD/XP enablement. Point me at an initiative, and I'll set it right.
     - [Matt K. Parker](https://mattkparker.com)
 - [StartOps](https://startops.us)
     - _StartOps focuses on DevOps and Site Reliability Engineering as its two significant practices, delivering streamlined commits to stable and performant production environments._

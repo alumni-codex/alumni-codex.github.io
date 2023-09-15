@@ -33,3 +33,8 @@ A template for you to use:
     - [Matt K. Parker](https://mattkparker.com)
 - [StartOps](https://startops.us)
     - [Jim Park](https://www.linkedin.com/in/jim80net/)
+- [Artium](https://thisisartium.com)
+    - _We build incredible products, recruit high-performing teams, and help you achieve the culture of craft you need to build great software long after we’re gone._
+    - [Ross Hale](https://www.linkedin.com/in/rosshale/)
+    - [Henry Meller](https://www.linkedin.com/in/henrymeller/)
+    - [Mike McCormick](https://www.linkedin.com/in/get-to-know-mike/)

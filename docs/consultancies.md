@@ -26,6 +26,9 @@ A template for you to use:
 - [Mechanical Orchard](https://www.mechanical-orchard.com/)
     - _We combine custom application development with cloud operations as a service, reducing risk and increasing predictability for Global 2000 customers._ (from the home page)    
     - [Dan Podsedly](https://www.linkedin.com/in/dan-podsedly-9945996/)
+- [Melostat](https://melostat.com)
+    - We product better so you can business better. 
+    - [Rathan Haran](https://www.linkedin.com/in/rathanharan)
 - [SuperOrbital](https://superorbital.io)
     - _Your partner in delivering success on Kubernetes_ (from the home page) 
     - [Tammer Saleh](https://www.linkedin.com/in/tammersaleh/)

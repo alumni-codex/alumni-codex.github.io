@@ -4,7 +4,7 @@ If your company, or a company you know, is looking for a Labs-like consultancy t
 
 ## How to Add to this List
 
-Please add the firm name, link to website, contact point, and any other notes you may want to add about specialties. Not everyone in this community knows everyone, so more details help people decide who might be able to help them best. 
+Please add the firm name, link to website, contact point, and any other notes you may want to add about specialties. Not everyone in this community knows everyone, so more details help people decide who might be able to help them best.
 
 A template for you to use:
 
@@ -19,18 +19,18 @@ A template for you to use:
 
 - [33 Teams](https://www.33teams.com/)
      - _Whether you are creating your first product, scaling to the next level, or need to modernize or add capability to legacy apps, we can help._ (from the home page)
-     - [Drew McManus](https://www.33teams.com/contact) 
+     - [Drew McManus](https://www.33teams.com/contact)
 - [Initial Capacity](https://www.initialcapacity.io/)
-    - _Our team has decades of experience building web and mobile apps at scale for the world’s largest companies._ (from the home page) 
+    - _Our team has decades of experience building web and mobile apps at scale for the world’s largest companies._ (from the home page)
     - [Mike Barinek](https://www.linkedin.com/in/barinek/)
 - [Mechanical Orchard](https://www.mechanical-orchard.com/)
-    - _We combine custom application development with cloud operations as a service, reducing risk and increasing predictability for Global 2000 customers._ (from the home page)    
+    - _We combine custom application development with cloud operations as a service, reducing risk and increasing predictability for Global 2000 customers._ (from the home page)
     - [Dan Podsedly](https://www.linkedin.com/in/dan-podsedly-9945996/)
 - [Melostat](https://melostat.com)
     - We product better so you can business better. 
     - [Rathan Haran](https://www.linkedin.com/in/rathanharan)
 - [SuperOrbital](https://superorbital.io)
-    - _Your partner in delivering success on Kubernetes_ (from the home page) 
+    - _Your partner in delivering success on Kubernetes_ (from the home page)
     - [Tammer Saleh](https://www.linkedin.com/in/tammersaleh/)
 - [Work Radical](https://www.linkedin.com/company/work-radical?trk=profile-position)
     - Independent consulting: leadership coaching, organizational architecture, fractional product leadership, Lean/UCD/XP enablement. Point me at an initiative, and I'll set it right.
@@ -43,3 +43,7 @@ A template for you to use:
     - [Ross Hale](https://www.linkedin.com/in/rosshale/)
     - [Henry Meller](https://www.linkedin.com/in/henrymeller/)
     - [Mike McCormick](https://www.linkedin.com/in/get-to-know-mike/)
+- [Reflective](https://reflective.dev)
+    - _Application development and workflow automation consulting, specializing in Elixir, Phoenix, and Rust._
+    - [Eric Saxby](https://www.linkedin.com/in/ericsaxby/)
+    - [Erik Hanson](https://www.linkedin.com/in/eahanson/)

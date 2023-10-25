@@ -8,6 +8,7 @@
 - And the pivot-maintained [Soft Landings for Pivots][soft]
     - A list of places pivots have created, or now work, and how to get in touch
  
-  # Recruiters (PM/Design/Engineering)
-  - Amanda Hoffer (Single Sprout) https://www.linkedin.com/in/amanda-hoffer/
-  - Taylor Tomko (Synergy Interactive) https://www.linkedin.com/in/taylor-tomko/
+# Recruiters (PM/Design/Engineering)
+
+- Amanda Hoffer (Single Sprout) https://www.linkedin.com/in/amanda-hoffer/
+- Taylor Tomko (Synergy Interactive) https://www.linkedin.com/in/taylor-tomko/

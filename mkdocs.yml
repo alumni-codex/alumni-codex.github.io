@@ -16,5 +16,6 @@ nav:
   - Pivotal Website Archive: archives.md
   - Stories of History:
     - The Pivotal Squirrel: history/squirrel.md
+    - The Nuts of Onsi's People: history/nuts.md
   # Please keep this as the bottom-most link
   - Contributing: contributing/index.md

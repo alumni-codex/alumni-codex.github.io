@@ -14,4 +14,4 @@
 - [Agile Software Planning: What to do if Classic 2-Week Sprint Planning isn't Working](https://medium.com/@AdamPiel/agile-software-planning-what-to-do-if-classic-2-week-sprint-planning-isnt-working-for-your-team-c482af31a1f8)
 
 ## Team Structure
-- Janice Fraser's deck on [https://www.slideshare.net/clevergirl/2015-balanced-teams-product-management-engineering](Balanced Teams)
+- Janice Fraser's deck on [Balanced Teams](https://www.slideshare.net/clevergirl/2015-balanced-teams-product-management-engineering)

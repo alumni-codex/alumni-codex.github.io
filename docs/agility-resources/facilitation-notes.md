@@ -1,5 +1,29 @@
 # Facilitation
 
+## Common Meetings
+
+There are a variety of meetings/ceremonies which are useful to supporting a truly agile environment. Here's a seed list of meeting types that you might use to establish or reinforce an agile development practice.
+
+* Sprint retrospective (assessing sprint process, identifying improvement areas, etc.)
+* Daily standup / scrum (updating on progress, assigning new work items, etc.)
+* User story workshops (defining user stories, developing a shared understanding of requirements, etc.)
+* Kickoff meeting (setting project objectives, expectations, the tone for team collaboration, etc.)
+* Release / Quarterly planning (setting a longer-term roadmap, establishing a release schedule, etc.)
+* Goal progress update (sharing updates on KRs metrics, progress on goals, relevant learnings, etc.)
+* Craft sync (connecting with colleagues in similar roles to provide work updates, develop goals and processes, share craft knowledge, etc.)
+* Bug triage meeting (addressing and prioritizing reported bugs or issues, determining their severity and how to fix them, etc.)
+* Ideation session (generating new ideas, brainstorming innovating features, etc.)
+* Sprint planning (selecting tasks to work on during the sprint, estimating the effort involved, etc.)
+* Sprint review (demonstrating completed work, updating backlog, etc.)
+* Backlog refinement / grooming (reviewing, prioritizing, refining tasks in backlog, etc.)
+* Customer and product usage insights meeting (discussing insights gathered from product usage, user behavior, customer interactions, etc.)
+* Status meeting (sharing project status updates, discussing issues/topics as a group, etc.)
+* Kanban planning (breaking down work items on kanban board, reviewing cycle times, etc.)
+* Town halls (sharing product demos, progress on metrics, important business announcements, etc.)
+* Review and retrospective for releases (assessing release process, planning for future releases or iterations, etc.)
+
+-- Credit to Atlassian Jira, who provided this list as part of a user survey in Jan '23
+
 ## Common Meeting Agendas
 
 Basic templates of agendas for common meetings.

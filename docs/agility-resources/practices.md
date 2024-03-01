@@ -1,8 +1,9 @@
 # Practices
 
-- [Tanzu Practices](https://tanzu.vmware.com/developer/practices/)
-    - VMware officially sanctioned "Open Sourced" how-to guides, including templates
-    - [Pivot Joe Moore's](mailto:moorejo@vmware.com) main job is to manage this site. Email him if you want content added.
+- [Labs Practices](https://labspractices.com/)
+    - "Open Sourced" how-to guides from Tanzu Labs, including templates for many sessions
+    - Maintained by [Pivot Joe Moore's](mailto:moorejo@vmware.com) 
+    - Moved to this site when Tanzu consolidated all its learning materials under one banner
 - [The Anchor Playbook](https://tanzu.vmware.com/developer/learningpaths/anchor-playbook/)
 - [The Pivotal Glossary](https://tanzu.vmware.com/content/blog/the-pivotal-glossary), by Megan Holzer
     - A set of common Pivotal language

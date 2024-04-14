@@ -10,5 +10,5 @@ There are dozens of these in the wild, but with the advent of Apple Silicon, man
 - [Phoenix](https://github.com/kasper/phoenix)
 - An arm-64 fork of [Slate](https://github.com/fertigt/slate_arm64)
   - Originally [Slate](https://github.com/jigish/slate), but untouched for 12 years!
-    - Installable via Homebrew: `cask "fertigt-slate"`
+  - Installable via Homebrew: `cask "fertigt-slate"`
   - DWF posted a [config file](https://github.com/infews/workstation_repave/blob/main/dotfiles/slate), which has the familiar keybindings

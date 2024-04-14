@@ -17,7 +17,7 @@ Tech video lunches were a tradition at several Pivotal offices (San Francisco an
 - [Douglas Crockford: Monads and Gonads](http://www.youtube.com/watch?v=dkZFtimgAcM)
 
 ## Longer Ones (but interesting)
-- [SOLID in the Wild: Life When Your Software is Actually Soft - David Edwards, Mike Kenyon, Zoe Gagnon](https://youtu.be/RtqKN9xEK0c?si=6sXlBT941P8WNXp1)
+- [David Edwards, Mike Kenyon, Zoe Gagnon - SOLID in the Wild: Life When Your Software is Actually Soft](https://youtu.be/RtqKN9xEK0c?si=6sXlBT941P8WNXp1)
 - [Greg Wilson - What We Actually Know About Software Development, and Why We Believe It’s True](https://vimeo.com/9270320)
 - [Robert Martin - Architecture: The Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
 - [Boundaries in Practice - Ayaka Nonaka](https://realm.io/news/tryswift-ayaka-nonaka-boundaries-in-practice)

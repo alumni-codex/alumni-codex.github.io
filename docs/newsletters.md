@@ -10,3 +10,4 @@
 ## Others
 
 - Kent Beck - [Tidy First](https://tidyfirst.substack.com/)
+- John Cutler - [The Beautiful Mess](https://cutlefish.substack.com)

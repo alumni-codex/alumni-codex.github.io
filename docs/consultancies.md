@@ -24,7 +24,8 @@ A template for you to use:
     - _Our team has decades of experience building web and mobile apps at scale for the world’s largest companies._ (from the home page)
     - [Mike Barinek](https://www.linkedin.com/in/barinek/)
 - [Ignition Works](https://ignition.works)
-    - Based in London. We are engineers, product managers and designers with Pivotal heritage who help others create create software while also building our own product. We also have expertise running PCF (aka TAS) platforms.
+    - Based in the UK and Spain.
+    - We are engineers, product managers and designers with Pivotal heritage who help others create create software while also building our own product. We also have expertise running PCF (aka TAS) platforms.
     - Jesse Heitler(https://www.linkedin.com/in/jesseheitler/)
 - [Mechanical Orchard](https://www.mechanical-orchard.com/)
     - _We combine custom application development with cloud operations as a service, reducing risk and increasing predictability for Global 2000 customers._ (from the home page)

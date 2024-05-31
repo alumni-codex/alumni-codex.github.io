@@ -14,9 +14,9 @@
     - Some overlap with what we used a Pivotal. Many good things here, complete with templates for Atlassian Products
 - [Agile Software Planning: What to do if Classic 2-Week Sprint Planning isn't Working](https://medium.com/@AdamPiel/agile-software-planning-what-to-do-if-classic-2-week-sprint-planning-isnt-working-for-your-team-c482af31a1f8)
 - [Tanzu Miro Templates](https://miro.com/miroverse/profile/vmware-pivotal-labs/)
-  - Note: this page might be going away when Tanzu ends their subscription
+    - Note: this page might be going away when Tanzu ends their subscription
 - [Automatic Project Management](http://benchristel.github.io/presentations/pivotal-tracker/#1)
-  - a presentation about the Pivotal Tracker Way
+    - A presentation about the Pivotal Tracker Way
 
 ## Team Structure
 

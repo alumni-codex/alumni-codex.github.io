@@ -10,5 +10,5 @@
  
 # Recruiters (PM/Design/Engineering)
 
-- Amanda Hoffer (Single Sprout) https://www.linkedin.com/in/amanda-hoffer/
-- Taylor Tomko (Synergy Interactive) https://www.linkedin.com/in/taylor-tomko/
+- [Amanda Hoffer](https://www.linkedin.com/in/amanda-hoffer/) @ Single Sprout 
+- [Taylor Tomko](https://www.linkedin.com/in/taylor-tomko/) @ Synergy Interactive 

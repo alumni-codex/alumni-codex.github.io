@@ -49,6 +49,10 @@ Basic templates of agendas for common meetings.
     
     _go home_
 
+#### Optional Inception Activities
+
+* [Service Blueprint](https://servicedesigntools.org/tools/service-blueprint) - promotes a shared understanding of the business process in which a solution will be used. This fosters the team's empathy towards those who will use their software solution
+
 ## Common Ground Rules
 
 Templates for common meetings.

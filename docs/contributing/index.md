@@ -14,9 +14,12 @@ To keep this site up, we won't post anything that is intelluctual property of a 
 
 ## About This Site
 
-This is a static site, generated from a set of Markdown files in the [Alumni Codex repository][repo] at [GitHub](https://github.com).
+This is a static site, generated from a set of Markdown files in the [Alumni Codex repository][repo] using MakeDocs, and hosed as a GitHub Pages site at [GitHub](https://github.com).
 
 If you want to add anything or make any changes, you need a [GitHub account][join]. There are more detailed instructions and guidelines in the [Contributing Guide][guide].
 
 If this is daunting, reach out to Davis (@DWF on the Slack) and he'll help you out. 
 
+## "Ownership"
+
+In order to work with GitHub Pages (and thus stay free), there is a standalone GitHub Account. For purposes of complying with GitHub policies and limitations, Davis "owns" this account. It uses a gmail "+" address and has saved username/password, 2FA, and recovery codes. If at any point we need to transfer ownership of this project, Davis will hand this data off to a new owner. 

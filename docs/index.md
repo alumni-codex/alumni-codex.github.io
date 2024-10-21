@@ -12,7 +12,7 @@ It's a wiki as a workaround for searching and/or paying for Slack as a full arch
 
 ## Looking for Swag?
 
-- Brownwen's (SF Designer) [Once a Pivot, Always a Pivot](https://always-a-pivot.creator-spring.com/) store
+- Bronwen's (SF Designer) [Once a Pivot, Always a Pivot](https://www.redbubble.com/people/bronwen-a/shop) store
 
 ## Want to Contribute?
 

@@ -21,3 +21,16 @@ Given that the [Pivotal Alumni Slack][slk] is free, and free Slacks have only 90
 - Please see [CONTRIBUTING.md][contrib] for details on how to add and update files.
 - Be Kind
 - Reach out to Davis - @infews - if you want to help with admin of this site
+
+## Development
+
+You will need Python 3 and the Pip package manager.
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+# Run the dev server
+mkdocs serve
+# Navigate your browser to it
+open http://127.0.0.1:8000/
+```

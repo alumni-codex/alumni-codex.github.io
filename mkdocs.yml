@@ -33,6 +33,7 @@ nav:
   - Engineering Topics:
       - Tech Videos: engineering/tech-videos.md
       - Core Practice Discussions: engineering/core-practice.md
+      - Tutorials: engineering/tutorials.md
   - Product Topics: product/index.md
   - Agility Resources:
       - Practices: agility-resources/practices.md

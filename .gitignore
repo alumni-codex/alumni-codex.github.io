@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-.idea/
-=======
-# ignore lock file of Brew
-# changes all the time
-Brewfile.lock.json
-# ignore build directory of mkdocs
-site
->>>>>>> 3a900c2 (init commit)
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

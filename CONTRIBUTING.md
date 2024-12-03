@@ -17,44 +17,49 @@ Feel free to edit any existing page. We have a _slight_ preference for [referenc
 When adding a new page please keep in mind a few things.
 
 - All files must be valid Markdown syntax and end in the `.md` extension
-- Files in the `/docs` directory will show up in the root
+- Every file needs YAML front matter that looks like this:
+
+```yaml
+---
+title: <My new page title>
+layout: default # so that the side nav renders on this page
+parent: <title of parent page> # puts this page in the side nav
+---
+```
+
+- In order to be connected to the side navigation, the file needs a `parent` (see above)
   - e.g., `/who_is_ora.md` will build a page at `https://alumni-codex.github.io/who_is_ora/`
-- If you want to make a collection of related pages
-  - Create a new directory under `/docs`
-    - e.g., `/docs/pivotal_breakfast/`
-  - Create new pages underneath your new directory and write those pages
-    - `/docs/pivotal_breakfast/ora.md` and `/docs/pivotal_breakfast/gemma.md`; these will render to `https://alumni-codex.github.io/pivotal_breakfast/ora/` and `https://alumni-codex.github.io/pivotal_breakfast/gemma/` respectively
-    - `/docs/pivotal_breakfast/index.md/` will render to `https://alumni-codex.github.io/pivotal_breakfast/`
-
-### Adding New Pages to Nav
-
-Whenever you add new pages, you need to _add them to the left-side navigation __manually___. 
-
-To add these new pages, you need to update the `nav` section of `mkdocs.yml`. Use the existing file as a guide.
+- New Directories are welcome!
+  - The directory needs an `index.md` for this group of related pages 
+  - This `index.md` doesn't need a parent, but it needs a `nav_order: integer` to place it in the Side Nav 
 
 ## Local Development
 
 Please fork the repo for local development. See below re: Pull Requests.
 
-All of the source to this site is in the `main` branch in the `/docs` directory. This directory and its subdirectories adhere to [MkDocs][mkd] patterns.
+All of the source to this site is in the `main` branch directory. This directory and its subdirectories adhere to [Jekyll](https://jekyllrb.com) patterns.
 
 Local development is _not required_, but it can help maintainers get your edits to the web faster.
 
 ### Setup
 To set up a local development environment - that is, to allow for live reload and preview of the built HTML - you will need:
 
-- Homebrew
-- Python 3 + `pip`
+- Homebrew (to install a useful Ruby)
+- Ruby 3.3.x and Bundler
+- 
+## Development
+
+You will need Ruby 3.3.x and Bundler in order to validate locally.
 
 ```bash
-brew bundle # see the Brewfile in the repo root
-pip3 install -r requirements.txt
-mkdocs server
-# make changes to docs (see below)
-# make sure markdown formatted correctly
-deno fmt .
-# make git commit and PR (optional)
+# Install dependencies
+bundle install
+# Run the dev server
+bundle exec jekyll serve
+# Navigate your browser to it
+open http://127.0.0.1:4000/
 ```
+
 ## Submitting a Pull Request
 
 We're using GitHub's PR flow to manage contributions and deal with potential conflicts.

@@ -4,27 +4,36 @@ parent: Pivotal History
 layout: default
 ---
 
-# Pivotal Website Archives @ Internet Archive
+# Pivotal Website Archives 
+_CourtesyThe Internet Archive_
 
 Primary sources. A record of how Pivotal/Labs presented itself over the years.
 
-- [pivotallabs.com, 2007][2007]
+## pivotallabs.com
+
+- [2007][2007]
   - Interestings:
     - "Interestings" was originally "Interesting Things" (see the blog)
     - We used to track how long standup took each day. In 2007 it looks like the norm was 15-20 minutes, which seems long by modern standards!
     - "Iteration. It doesn't mean going over the same thing again and again — it means biting off small pieces and letting one good thing build upon the next." (from the Pivotal Process page)
-- [pivotallabs.com, 2010][2010]
-- [pivotallabs.com, 2012][2012]
-- [pivotallabs.com, 2013][2013a]
-- [gopivotal.com, 2013][2013b]
-- [gopivotal.com, slightly later 2013][2013c]
-- [pivotallabs.com, 2014][2014a]
-- [pivotal.io, late 2014][2014b]
-- [pivotal.io, 2016][2016]
-- [pivotal.io, 2017][2017]
-- [pivotal.io, 2018][2018]
-- [pivotal.io, 2019][2019]
-- [pivotal.io, 2020][2020]
+- [2010][2010]
+- [2012][2012]
+- [2013][2013a]
+- [2014][2014a]
+
+## gopivotal.com
+
+- [2013][2013b]
+- [slightly later 2013][2013c]
+
+## pivotal.io
+
+- [late 2014][2014b]
+- [2016][2016]
+- [2017][2017]
+- [2018][2018]
+- [2019][2019]
+- [2020][2020]
 
 [2007]: https://web.archive.org/web/20070216104648/http://www.pivotallabs.com/
 [2010]: https://web.archive.org/web/20101105102729/http://pivotallabs.com/

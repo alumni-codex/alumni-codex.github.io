@@ -18,9 +18,9 @@ Primary sources. A record of how Pivotal/Labs presented itself over the years.
 - [pivotallabs.com, 2013][2013a]
 - [gopivotal.com, 2013][2013b]
 - [gopivotal.com, slightly later 2013][2013c]
-- pivotallabs.com, 2014 _dropped from web.archive.org_
-- pivotal.io, late 2014 _dropped from web.archive.org_
-- pivotal.io, 2016 _dropped from web.archive.org_
+- [pivotallabs.com, 2014][2014a]
+- [pivotal.io, late 2014][2014b]
+- [pivotal.io, 2016][2016]
 - [pivotal.io, 2017][2017]
 - [pivotal.io, 2018][2018]
 - [pivotal.io, 2019][2019]
@@ -32,6 +32,9 @@ Primary sources. A record of how Pivotal/Labs presented itself over the years.
 [2013a]: https://web.archive.org/web/20130113074603/http://pivotallabs.com/
 [2013b]: https://web.archive.org/web/20130606100607/http://www.gopivotal.com:80/
 [2013c]: https://web.archive.org/web/20130720074756/http://gopivotal.com:80/
+[2014a]: https://web.archive.org/web/20141206054035/http://pivotallabs.com/
+[2014b]: https://web.archive.org/web/20141208123549/http://www.pivotal.io/
+[2016]: http://web.archive.org/web/20161202145402/https://pivotal.io/
 [2017]: https://web.archive.org/web/20170131182631/https://pivotal.io/ 
 [2018]: https://web.archive.org/web/20180201005215/https://pivotal.io/
 [2019]: https://web.archive.org/web/20190201050120/https://pivotal.io/

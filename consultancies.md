@@ -70,3 +70,7 @@ A template for you to use:
 - [Down Under Software Consultanting (DUSC)](https://www.dusc.dev/) 
     - _Down Under Software Consulting create technological solutions to enhance human life._
     - [Dirk Kelly](https://www.linkedin.com/in/dirk-kelly/)
+- [Focused Labs](https://focused.io/)
+    - _Legacy modernization, custom software development, AI implementation, team enablement_
+    - [Austin Vance](https://www.linkedin.com/in/austinbv/)
+    - [Luke Mueller](https://www.linkedin.com/in/luke-mueller-focused-labs/)

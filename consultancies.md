@@ -57,3 +57,9 @@ A template for you to use:
     - _Application development and workflow automation consulting, specializing in Elixir, Phoenix, and Rust._
     - [Eric Saxby](https://www.linkedin.com/in/ericsaxby/)
     - [Erik Hanson](https://www.linkedin.com/in/eahanson/)
+- [FF Studio](https://www.ff.studio/) 
+    - _Multidisciplinary service design_
+    - [Anna Goss](https://www.linkedin.com/in/annagoss/)   
+- [Down Under Software Consultanting (DUSC)](https://www.dusc.dev/) 
+    - _Down Under Software Consulting create technological solutions to enhance human life._
+    - [Dirk Kelly](https://www.linkedin.com/in/dirk-kelly/)

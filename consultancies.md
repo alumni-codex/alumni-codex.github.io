@@ -21,6 +21,16 @@ A template for you to use:
   - [Contact for further discussion](url to LinkedIn, or a contact page, or something)
 ```
 
+## Independent consultants
+- [Matt K. Parker](https://mattkparker.com) Leadership coaching, organizational architecture, fractional product leadership, Lean/UCD/XP enablement. Point me at an initiative, and I'll set it right.
+- [Antonia Horvarth](https://www.fresh-take.xyz/) Where startups and small businesses go to become snazzy. For unapologetically cool branding, clever product design, or a workshop that’s more fun than it has any right to be. Fluent in design and technology alike, I’ve got AI tricks up my sleeve too.
+- [Felicia Schwartz and Jenn Spykerman](https://www.bridge-way.co/) We empower midsize and growing companies to achieve their business objectives by leveraging cutting-edge technology and AI Solutions
+- [Jason Fraser](https://missionratio.com/) Strategic consulting, skill building, facilitation.
+- [Mary Baldwin Hughes](https://www.linkedin.com/in/marymbaldwin/) Fractional CPO, consultant and coach
+- [Hannah Foxwell](https://www.linkedin.com/in/hannah-foxwell/) Figuring out what to do with AI - Advisor, Creator, Speaker, Writer
+- [Felipe (Phil) Guimaraes](https://www.linkedin.com/in/felipeaela/) UX, UI, AI, Marketing & Sales for Business Growth
+- [Robbie Clutton](https://www.linkedin.com/in/robbieclutton) Product and business minded fractional CTO, advisory, one-off projects.
+
 ## Firms
 
 - [33 Teams](https://www.33teams.com/)
@@ -30,21 +40,18 @@ A template for you to use:
     - _Our team has decades of experience building web and mobile apps at scale for the world’s largest companies._ (from the home page)
     - [Mike Barinek](https://www.linkedin.com/in/barinek/)
 - [Ignition Works](https://ignition.works)
-    - Based in the UK and Spain.
-    - We are engineers, product managers and designers with Pivotal heritage who help others create create software while also building our own product. We also have expertise running PCF (aka TAS) platforms.
+    - _Based in the UK and Spain._
+    - _We are engineers, product managers and designers with Pivotal heritage who help others create create software while also building our own product. We also have expertise running PCF (aka TAS) platforms._
     - Jesse Heitler(https://www.linkedin.com/in/jesseheitler/)
 - [Mechanical Orchard](https://www.mechanical-orchard.com/)
     - _We combine custom application development with cloud operations as a service, reducing risk and increasing predictability for Global 2000 customers._ (from the home page)
     - [Dan Podsedly](https://www.linkedin.com/in/dan-podsedly-9945996/)
 - [Melostat](https://melostat.com)
-    - We product better so you can business better. 
+    - _We product better so you can business better._
     - [Rathan Haran](https://www.linkedin.com/in/rathanharan)
 - [SuperOrbital](https://superorbital.io)
     - _Your partner in delivering success on Kubernetes_ (from the home page)
     - [Tammer Saleh](https://www.linkedin.com/in/tammersaleh/)
-- [Work Radical](https://www.linkedin.com/company/work-radical?trk=profile-position)
-    - Independent consulting: leadership coaching, organizational architecture, fractional product leadership, Lean/UCD/XP enablement. Point me at an initiative, and I'll set it right.
-    - [Matt K. Parker](https://mattkparker.com)
 - [StartOps](https://startops.us)
     - _StartOps focuses on DevOps and Site Reliability Engineering as its two significant practices, delivering streamlined commits to stable and performant production environments._
     - [Jim Park](https://www.linkedin.com/in/jim80net/)
@@ -57,3 +64,13 @@ A template for you to use:
     - _Application development and workflow automation consulting, specializing in Elixir, Phoenix, and Rust._
     - [Eric Saxby](https://www.linkedin.com/in/ericsaxby/)
     - [Erik Hanson](https://www.linkedin.com/in/eahanson/)
+- [FF Studio](https://www.ff.studio/) 
+    - _Multidisciplinary service design_
+    - [Anna Goss](https://www.linkedin.com/in/annagoss/)   
+- [Down Under Software Consultanting (DUSC)](https://www.dusc.dev/) 
+    - _Down Under Software Consulting create technological solutions to enhance human life._
+    - [Dirk Kelly](https://www.linkedin.com/in/dirk-kelly/)
+- [Focused Labs](https://focused.io/)
+    - _Legacy modernization, custom software development, AI implementation, team enablement_
+    - [Austin Vance](https://www.linkedin.com/in/austinbv/)
+    - [Luke Mueller](https://www.linkedin.com/in/luke-mueller-focused-labs/)

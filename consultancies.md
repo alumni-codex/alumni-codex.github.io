@@ -26,7 +26,7 @@ A template for you to use:
 - [Antonia Horvarth](https://www.fresh-take.xyz/) Where startups and small businesses go to become snazzy. For unapologetically cool branding, clever product design, or a workshop that’s more fun than it has any right to be. Fluent in design and technology alike, I’ve got AI tricks up my sleeve too.
 - [Felicia Schwartz and Jenn Spykerman](https://www.bridge-way.co/) We empower midsize and growing companies to achieve their business objectives by leveraging cutting-edge technology and AI Solutions
 - [Jason Fraser](https://missionratio.com/) Strategic consulting, skill building, facilitation.
-- [Mary Baldwin](https://www.linkedin.com/in/marymbaldwin/) Fractional CPO, consultant and coach
+- [Mary Baldwin Hughes](https://www.linkedin.com/in/marymbaldwin/) Fractional CPO, consultant and coach
 - [Hannah Foxwell](https://www.linkedin.com/in/hannah-foxwell/) Figuring out what to do with AI - Advisor, Creator, Speaker, Writer
 - [Felipe (Phil) Guimaraes](https://www.linkedin.com/in/felipeaela/) UX, UI, AI, Marketing & Sales for Business Growth
 - [Robbie Clutton](https://www.linkedin.com/in/robbieclutton) Product and business minded fractional CTO, advisory, one-off projects.

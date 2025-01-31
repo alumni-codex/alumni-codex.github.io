@@ -30,6 +30,7 @@ A template for you to use:
 - [Hannah Foxwell](https://www.linkedin.com/in/hannah-foxwell/) Figuring out what to do with AI - Advisor, Creator, Speaker, Writer
 - [Felipe (Phil) Guimaraes](https://www.linkedin.com/in/felipeaela/) UX, UI, AI, Marketing & Sales for Business Growth
 - [Robbie Clutton](https://www.linkedin.com/in/robbieclutton) Product and business minded fractional CTO, advisory, one-off projects.
+- [Mike Gehard](https://www.linkedin.com/in/mike-gehard/) Need a hand on, staff level IC engineer to help your teams deliver user value more quickly and sustainably using AI-assistants? Hit me up.
 
 ## Firms
 

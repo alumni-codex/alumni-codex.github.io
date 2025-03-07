@@ -76,3 +76,7 @@ A template for you to use:
     - _Legacy modernization, custom software development, AI implementation, team enablement_
     - [Austin Vance](https://www.linkedin.com/in/austinbv/)
     - [Luke Mueller](https://www.linkedin.com/in/luke-mueller-focused-labs/)
+- [Hermit Tech](https://www.hermit-tech.com)
+    - _Data analytics infrastructure for startups aiming to acquire their first enterprise client._
+    - _Unofficially -- "transforming the way Australia builds software."_
+    - [Nik Suresh](https://www.linkedin.com/in/nik-suresh/)

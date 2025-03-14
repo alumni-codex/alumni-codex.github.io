@@ -45,6 +45,9 @@ A template for you to use:
     - _Based in the UK and Spain._
     - _We are engineers, product managers and designers with Pivotal heritage who help others create create software while also building our own product. We also have expertise running PCF (aka TAS) platforms._
     - Jesse Heitler(https://www.linkedin.com/in/jesseheitler/)
+- [Lost Horse](https://losthorse.design/)
+    - Human-centered design meets thoughtful software development. We help companies build digital products that actually work for people—without the usual waste, frustration, or guesswork. Whether you’re launching, refining, or rescuing a product, we bring clarity and momentum to the process.
+    - US-based.
 - [Mechanical Orchard](https://www.mechanical-orchard.com/)
     - _We combine custom application development with cloud operations as a service, reducing risk and increasing predictability for Global 2000 customers._ (from the home page)
     - [Dan Podsedly](https://www.linkedin.com/in/dan-podsedly-9945996/)

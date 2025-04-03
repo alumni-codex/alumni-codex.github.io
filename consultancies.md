@@ -32,6 +32,7 @@ A template for you to use:
 - [Robbie Clutton](https://www.linkedin.com/in/robbieclutton) Product and business minded fractional CTO, advisory, one-off projects.
 - [Mike Gehard](https://www.linkedin.com/in/mike-gehard/) Need a hand on, staff level IC engineer to help your teams deliver user value more quickly and sustainably using AI-assistants? Hit me up.
 - [Joe Masilotti](https://masilotti.com) I help Rails-powered businesses launch iOS and Android apps in the app stores.
+- [Dat Tran](https://dat-tran.com/) Fractional CTO, focus on all data & AI topics from boring data engineering, analytics to fancy AI topics
 
 ## Firms
 

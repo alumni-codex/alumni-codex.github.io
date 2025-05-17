@@ -3,7 +3,17 @@ title: Tools
 layout: default
 nav_order: 10
 ---
+
+[helloretro-web]: https://helloretro.app/
+[helloretro-github]: https://github.com/jtarchie/helloretro
+
 # Tools
+
+## Retrospective Facilitation
+
+- [HelloRetro][helloretro-web]
+  - Modeled after Postfacto. Supports the "Happy, Meh, Sad" / "Mad, Sad, Glad" pattern.
+  - [GitHub][helloretro-github]
 
 ## Window Managers for MacOS
 

@@ -4,6 +4,10 @@ layout: default
 parent: Agile Resources
 ---
 
+# Successors to Tracker
+
+http://bye-tracker.net/ - a site that covers many of the PivotalTracker clones and services which have popped up since the sunset of PivotalTracker.
+
 # List of surviving public Pivotal Tracker projects
 
 - <https://www.pivotaltracker.com/community/public-projects> has been taken down, but I trawled the Wayback Machine to find what surviving public projects I could, in the hope that the data enshrined in those backlogs might be useful.

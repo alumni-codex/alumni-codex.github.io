@@ -84,3 +84,9 @@ A template for you to use:
     - _Data analytics infrastructure for startups aiming to acquire their first enterprise client._
     - _Unofficially -- "transforming the way Australia builds software."_
     - [Nik Suresh](https://www.linkedin.com/in/nik-suresh/)
+- [Bekind Labs](https://www.bekindlabs.com)￼
+    - _We carry forward the Pivotal Labs heritage in Japan and Korea as a Labs-like full-stack delivery and consulting firm. Our founding team is composed entirely of former Pivotal Labs practitioners, and we’ve been growing rapidly since._
+    - _Building on the Pivotal Labs model (full-stack teams and coaching), we’re also designing and expanding new services aligned with today’s landscape._
+    - _We also build and operate [Tracker Boot](https://trackerboot.com), a reboot of Pivotal Tracker, evolving it into an AI-era development platform that accelerates XP/Lean practice._
+    - [Heewon Choi](https://www.linkedin.com/in/heewonchoi/)￼
+

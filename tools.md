@@ -34,3 +34,7 @@ There are dozens of these in the wild, but with the advent of Apple Silicon, man
 - [Rectangle](https://github.com/rxhanson/Rectangle)
   - Similar to ShiftIt. Actively maintained.
   - `brew install --cask rectangle`
+
+## Pairing / Mobbing Boards
+- [Mobbist](https://jaresty.github.io/mobbist/)
+  - The spiritual successor to pair.ist - supports mobbing too.  No login required - data is stored in local storage.
